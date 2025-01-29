@@ -1,4 +1,4 @@
-const User = require('../models/User.model');
+// const User = require('../models/User');
 const FriendRequest = require('../models/FriendRequest.model');
 
 // Send Friend Request
